@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+
+movies.csv
+ratings.csv
+tags.csv
+
 __pycache__/
 *.py[codz]
 *$py.class
