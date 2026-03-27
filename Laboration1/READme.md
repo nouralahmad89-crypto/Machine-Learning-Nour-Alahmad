@@ -18,7 +18,9 @@ https://grouplens.org/datasets/movielens/
 
 ### File Description
 
-- **lab1.ipynb** – main notebook containing data loading, analysis, preparation, and the recommendation model  
+- **lab1.ipynb** – main notebook containing data loading, analysis, preparation, and the recommendation model .
+- **recommendation.py** - Python script that includes the recommendation function (recommend_movies).
+- **report.ipynb** - Notebook containing explanation of the methodology ,description of preprocessing steps discussion of the model results and conclusions for the assignment
 
 
 ## Method
